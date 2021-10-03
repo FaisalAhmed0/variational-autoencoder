@@ -1,5 +1,5 @@
 # Auto-Encoding Variational Bayes
-This repo. contains a reimplementation of the of the variational auto encoder based on the original paper "Auto-Encoding Variational Bayes". by Kingma et.al<br/>
+This repo. contains a reimplementation of the variational auto encoder based on the original paper "Auto-Encoding Variational Bayes". by Kingma et.al<br/>
 Paper Link: https://arxiv.org/abs/1312.6114
 
 ### Clone the repository
